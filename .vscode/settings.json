@@ -1,0 +1,17 @@
+{
+  "spellright.language": [
+    "de",
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ],
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "cSpell.words": [
+    "py",
+    "timeit"
+  ]
+}
